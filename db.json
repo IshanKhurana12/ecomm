@@ -39,6 +39,7 @@
       "colors": ["Blue", "Gray", "Red"],
       "stock": 75,
       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2dsogcpDmP2mFHy89oJk7SEgRyqDsSx8dQ&usqp=CAU"
+    },
     {
       "id": "5",
       "name": "Wireless Headphones",
