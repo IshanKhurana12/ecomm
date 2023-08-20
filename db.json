@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "id": "1",
       "name": "Smartphone",
@@ -101,5 +100,5 @@
       "image":"https://www.themessycorner.in/cdn/shop/products/DG4_1800x.jpg?v=1680936553"
     }
   
-  ]
-}
+  
+]
