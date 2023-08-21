@@ -149,6 +149,36 @@
       "colors": ["Black", "Gray"],
       "stock": 35,
       "image": "https://hidesign.com/cdn/shop/products/carnaby-03-mens-blue-briefcase_1.jpg?v=1606736062"
+    },
+       {
+      "id": "16",
+      "name": "Wireless Mouse",
+      "description": "Optical wireless mouse for smooth navigation.",
+      "price_inr": 499,
+      "category": "Electronics",
+      "colors": ["Black", "White"],
+      "stock": 60,
+      "image": "https://www.pcstudio.in/wp-content/uploads/2021/09/Logitech-G-Pro-Hero-RGB-Wireless-Gaming-Mouse-1.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Leather Belt",
+      "description": "Classic leather belt for a polished look.",
+      "price_inr": 349,
+      "category": "Accessories",
+      "colors": ["Brown", "Black"],
+      "stock": 70,
+      "image": "https://static.massimodutti.net/3/photos//2023/V/0/2/p/1001/503/700/1001503700_2_3_16.jpg?t=1668596256282&impolicy=massimodutti-itxmediumhigh&imwidth=500&imformat=chrome"
+    },
+    {
+      "id": "18",
+      "name": "Desk Lamp",
+      "description": "Modern desk lamp with adjustable brightness.",
+      "price_inr": 799,
+      "category": "Home & Kitchen",
+      "colors": ["Black", "White"],
+      "stock": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf_pwbTqJQ2qJwQh31a8v2WGHxWJiHZuszl9F0CnO3WFAdIXnnzDpr__ZchVik1ouDZc8&usqp=CAU"
     }
     ]
   
