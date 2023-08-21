@@ -119,6 +119,16 @@
       "colors": ["Black", "Red"],
       "stock": 25,
       "image": "https://digitalwalker.ph/cdn/shop/products/MARSPEEMBERTONBTBLACK1_930x930.png?v=1651734072"
+    },
+         {
+      "id": "13",
+      "name": "Travel Backpack",
+      "description": "Stylish and spacious backpack for travel and daily use.",
+      "price_inr": 1499,
+      "category": "Accessories",
+      "colors": ["Gray", "Blue"],
+      "stock": 40,
+      "image": "https://www.hikerstore.in/cdn/shop/products/lifestyle-travel-travel-backpacks-dark-blue-smart-travel-backpack-by-hiker-store-39613140172984.jpg?v=1676549344&width=1000"
     }
     ]
   
