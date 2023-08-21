@@ -129,7 +129,26 @@
       "colors": ["Gray", "Blue"],
       "stock": 40,
       "image": "https://www.hikerstore.in/cdn/shop/products/lifestyle-travel-travel-backpacks-dark-blue-smart-travel-backpack-by-hiker-store-39613140172984.jpg?v=1676549344&width=1000"
-    }
+    },
+       {
+      "id": "14",
+      "name": "Sunglasses",
+      "description": "UV-protected sunglasses for a fashionable look.",
+      "price_inr": 499,
+      "category": "Accessories",
+      "colors": ["Black", "Brown"],
+      "stock": 50,
+      "image": "https://himalayaoptical.com/cdn/shop/products/8056597435765_3_1200x1200.jpg?v=1643893422"
+    },
+    {
+      "id": "15",
+      "name": "Laptop Backpack",
+      "description": "Durable laptop backpack with padded compartments.",
+      "price_inr": 1199,
+      "category": "Accessories",
+      "colors": ["Black", "Gray"],
+      "stock": 35,
+      "image": "https://hidesign.com/cdn/shop/products/carnaby-03-mens-blue-briefcase_1.jpg?v=1606736062"
     ]
   
 }
