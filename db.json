@@ -119,36 +119,6 @@
       "colors": ["Black", "Red"],
       "stock": 25,
       "image": "https://digitalwalker.ph/cdn/shop/products/MARSPEEMBERTONBTBLACK1_930x930.png?v=1651734072"
-    },
-    {
-      "id": "13",
-      "name": "Travel Backpack",
-      "description": "Stylish and spacious backpack for travel and daily use.",
-      "price_inr": 1499,
-      "category": "Accessories",
-      "colors": ["Gray", "Blue"],
-      "stock": 40,
-      "image": "https://www.hikerstore.in/cdn/shop/products/lifestyle-travel-travel-backpacks-dark-blue-smart-travel-backpack-by-hiker-store-39613140172984.jpg?v=1676549344&width=1000"
-    },
-    {
-      "id": "14",
-      "name": "Sunglasses",
-      "description": "UV-protected sunglasses for a fashionable look.",
-      "price_inr": 499,
-      "category": "Accessories",
-      "colors": ["Black", "Brown"],
-      "stock": 50,
-      "image": "https://himalayaoptical.com/cdn/shop/products/8056597435765_3_1200x1200.jpg?v=1643893422"
-    },
-    {
-      "id": "15",
-      "name": "Laptop Backpack",
-      "description": "Durable laptop backpack with padded compartments.",
-      "price_inr": 1199,
-      "category": "Accessories",
-      "colors": ["Black", "Gray"],
-      "stock": 35,
-      "image": "https://media1.popsugar-assets.com/files/thumbor/uR4I6smgdSim1YvNCIxH05TtF2M/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2022/03/10/663/n/46902964/be0b6dc3d959a712_Knox-Slim-Laptop-Bag-Tan-032-229-1_fullsize/i/Leatherology-Knox-Slim-Laptop-Bag.jpg"
     }
     ]
   
